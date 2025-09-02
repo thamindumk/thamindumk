@@ -17,11 +17,6 @@ Here are some ideas to get you started:
 
 
 <p>
-<h3>🔥 Streak Stats</h3>
-
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-
-<h3>💻 GitHub Profile Stats</h3>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
@@ -33,5 +28,5 @@ Here are some ideas to get you started:
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/thamindumk/github-readme-activity-graph"><img alt="Sandev's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=thamindumk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/thamindumk/github-readme-activity-graph"><img alt="Thamindu's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=thamindumk&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </p>
